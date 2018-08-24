@@ -1,0 +1,34 @@
+
+
+
+.title {
+  height: auto;
+  width: auto;
+  background-image: url(./images/pattern.jpeg);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  align-content: center;
+  display: grid;
+  grid-row: height 300px
+}
+
+.h2 {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetica;
+  fontcolor: white;
+}
+
+ .brushes {
+   font-family: Helvetica;
+ }
+
+ .frames {
+   font-family: Helvetica;
+ }
+
+ .paint {
+   font-family: Helvetica;
+ }
